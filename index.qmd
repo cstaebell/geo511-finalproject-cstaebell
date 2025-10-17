@@ -1,7 +1,7 @@
 ---
-title: "My Final Project Template"
-author: Your name here
-subtitle: Subtitle here if desired
+title: "Starry Night?"
+author: Carly Staebell
+subtitle: An exploration of light pollution and the Dark-Sky Movement in the US
 date: today
 date-format: long
 ---
