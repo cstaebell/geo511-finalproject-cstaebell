@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-About this site
+This site hosts the final project for GEO511 Spatial Data Science.
 
 ```{r}
 1 + 1
